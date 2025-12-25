@@ -137,12 +137,6 @@ http://localhost:3000/api
 - `GET /api/users/profile` - Get user profile
 - `PATCH /api/users/update-profile` - Update user profile
 
-#### Bookings
-- `POST /api/bookings` - Create new booking
-- `GET /api/bookings` - Get user bookings
-- `GET /api/bookings/:id` - Get booking details
-- `DELETE /api/bookings/:id` - Cancel booking
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
